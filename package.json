@@ -2,6 +2,10 @@
   "name": "behappywith.me",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Fernando Bruch",
+    "email": "nan_d0@hotmail.com"
+  },
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
